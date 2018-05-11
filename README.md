@@ -1,6 +1,6 @@
-# Cosine Similarity on Spark
+# Cosine Similarity with Spark
 
-A didactic implementation of cosine similarity in [Spark](
+A didactic implementation of cosine similarity with [Spark](
 https://spark.apache.org/) for the course of Big Data and Social Networks.
 
 Please refer to the [report](report.pdf) for additional details on the pipeline
@@ -13,7 +13,7 @@ and the evaluation on Netflix data.
 
 **Type**: `Academic project`
 
-**Course**: `Data Mining`
+**Course**: `Big Data and Social Networks`
 
 **Development year(s)**: `2015-2016`
 
